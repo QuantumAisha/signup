@@ -11,7 +11,7 @@ const Layout = ({ children,includeNavigation=true,includeFooter=true }) => {
         <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
-        <link rel="stylesheet" href="pages/scss/style.css" />
+        <link rel="stylesheet" href="" />
       </Head>
       <header>
         <div className="logo">
