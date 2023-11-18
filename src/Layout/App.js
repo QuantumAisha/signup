@@ -11,7 +11,7 @@ function App() {
       <nav>
       <a href="/Home">Home</a>
         <a href="/About">About</a>
-        <a href="/Action">Action</a>
+        <a href="/Signup">Signup</a>
         {/* Add more categories as needed */}
       </nav>
  </div>
